@@ -24,7 +24,7 @@ author:
   name             : "Jierui Liu"
   avatar           : "images/self-photo.jpg"
   bio              : "Shanghai University of Finance and Economics"
-  location         : "Shanghai, Shanghai, China"
+  location         : # "Shanghai, Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : 
