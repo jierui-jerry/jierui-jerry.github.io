@@ -19,7 +19,7 @@ redirect_from:
 
 Hey! I'm Jierui Liu(刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration - Human Resource Management. During my undergraduate, I am grateful to be advised by [Prof. Jie CAO](https://cob.sufe.edu.cn/Teacher/Detail/90) for my bachelor's dissertation.
 
-I'm currently an offer holder for the Digital Advisory Associate at PricewaterhouseCoopers(PwC) - Shanghai Office commercing in 2024 Fall. I am looking for an internship before my engagement. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
+I'm currently an offer holder for the **Digital Advisory Associate** at **PricewaterhouseCoopers(PwC)** - Shanghai Office commercing from 2024 Fall. I am looking for an internship before my engagement. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 📖 Educations
 
@@ -28,12 +28,12 @@ I'm currently an offer holder for the Digital Advisory Associate at Pricewaterho
 
 
 # 💻 Internship Experience
-- *2023.05 - 2023.08* **Equity Research Intern, China Securities Company Limited, Beijing**
+- *2023.05 - 2023.08*  **Equity Research Intern, China Securities Company Limited, Beijing**
 
    - **Database Maintenance:** Collected and maintained data related to Solar Energy. Independently built financial analysis models for both qualitative and quantitative analysis, handling over 10 databases. 
    - **Desk Research:** Conducted more than 20 interviews and wrote meeting summaries. Authored daily and weekly reports and contributed to an in-depth company research report on the market of PV glasses.
 
-- *2022.11 - 2022.12* **Risk Consulting Intern, KPMG Advisory (China) Limited, Shanghai**
+- *2022.11 - 2022.12*  **Risk Consulting Intern, KPMG Advisory (China) Limited, Shanghai**
 
    - **Consultancy:** Participated in consulting projects for major insurance companies (e.g., Manulife, HSBC, etc.) by actively engaging in conferences to meet customer needs and enhance client satisfaction.
    - **Risk Management:** Analyzed and interpreted financial data of insurance companies using Excel and other tools. Assessed the integrity of financial data monthly, ensuring effective risk management.
@@ -45,7 +45,7 @@ I'm currently an offer holder for the Digital Advisory Associate at Pricewaterho
 
 
 # 💡 Project Experience
-- *2022.10 - 2022.12* **Analysis of Airline Marketing Strategies Based on User Behavior Clustering, Shanghai**
+- *2022.10 - 2022.12*  **Analysis of Airline Marketing Strategies Based on User Behavior Clustering, Shanghai**
 
    - **Data Mining:** Conducted data preprocessing and exploratory analysis, including normalizing the data and identifying correlations. Developed new variables for use in cluster analysis based on the RFM model in marketing. Utilized K-Means clustering methods to evaluate clustering effects and gain a deeper understanding of the data.
    - **Application and Analytics:** Summarized the characteristics of various user clusters based on the clustering results and developed unique marketing strategies for each cluster using knowledge of marketing principles.
@@ -59,17 +59,17 @@ I'm currently an offer holder for the Digital Advisory Associate at Pricewaterho
 
 
 # 🎖 Honors and Awards
-- *2023.09* the 2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
-- *2023.07* 2nd Runner-Up, 2023 Deloitte Digital Difference Camp (by Deloitte)
-- *2022.11* Tailong Bank Scholarship (by Tailong Bank, *Top 10%*)
-- *2022.09* the 3rd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 20%*)
-- *2022.05* Top 200, 2022 L’Oréal Brandstorm (by L’Oréal)
+- *2023.09*  2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
+- *2023.07*  2nd Runner-Up, 2023 Deloitte Digital Difference Camp (by Deloitte)
+- *2022.11*  Tailong Bank Scholarship (by Tailong Bank, *Top 10%*)
+- *2022.09*  3rd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 20%*)
+- *2022.05*  Top 200, 2022 L’Oréal Brandstorm (by L’Oréal)
 
 
 # 💡 Miscellaneous
-- Language
-   - English: IELTS 6.5(6)
-   - Chinese(Mandarin): Native
-- Skills
-   - Data: Python (NumPy, Pandas), MS Excel
-   - Business: GMAT Focus Edition 625/81%
+- **Languages**
+   - **English:** IELTS 6.5(6)
+   - **Chinese(Mandarin):** Native
+- **Skills**
+   - **Data:** Python (NumPy, Pandas), MS Excel
+   - **Business:** GMAT Focus Edition 625/81%
