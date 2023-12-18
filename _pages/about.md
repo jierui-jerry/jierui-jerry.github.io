@@ -59,11 +59,11 @@ I'm currently an offer holder for the **FY25 Digital Advisory Associate** at **P
 
 
 # 🎖 Honors and Awards
-- *2023.09*  2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
-- *2023.07*  2nd Runner-Up, 2023 Deloitte Digital Difference Camp (by Deloitte)
-- *2022.11*  Tailong Bank Scholarship (by Tailong Bank, *Top 10%*)
-- *2022.09*  3rd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 20%*)
-- *2022.05*  Top 200, 2022 L’Oréal Brandstorm (by L’Oréal)
+- *2023.09* 2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
+- *2023.07* 2nd Runner-Up, 2023 Deloitte Digital Difference Camp (by Deloitte)
+- *2022.11* Tailong Bank Scholarship (by Tailong Bank, *Top 10%*)
+- *2022.09* 3rd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 20%*)
+- *2022.05* Top 200, 2022 L’Oréal Brandstorm (by L’Oréal)
 
 
 # 💡 Miscellaneous
