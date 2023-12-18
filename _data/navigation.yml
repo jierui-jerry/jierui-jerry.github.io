@@ -6,20 +6,17 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Internship Experience"
+    url: "/#-internship-experience"
 
-  - title: "Research Experience"
-    url: "/#-research-experience"
+  - title: "Project Experience"
+    url: "/#-project-experience"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Previous Works"
+    url: "/#-previous-work"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Campus Experience"
-    url: "/#-campus-experience"
 
   - title: "Miscellaneous"
     url: "/#-miscellaneous"
