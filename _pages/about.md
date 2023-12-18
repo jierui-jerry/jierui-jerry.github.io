@@ -17,95 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoyan Cong(丛箫言), a senior undergraduate student (Sep. 2020 - ) at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/_t1906/wbout/list.psp) & [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm), [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Robotics Engineering and minoring in Mathematics and “AI+X” Program. During my undergraduate, I am grateful to be advised by [Prof. Xiaowei Zhou](https://www.xzhou.me/), [Prof. Qifeng Chen](https://cqf.io/), [Prof. Li Yi](https://ericyi.github.io/), and [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/). 
+Hey! I'm Jierui Liu(刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration - Human Resource Management. During my undergraduate, I am grateful to be advised by [Prof. Jie CAO](https://cob.sufe.edu.cn/Teacher/Detail/90) for my bachelor's dissertation.
 
-My research interest lies in the intersection of 3D Computer Vision and
-Computer Graphics, particularly including neural rendering, reconstruction, and generative AI, as well as their applications in robotics.
-
-I'm looking for PhD position starting in Fall 2024, you can find my [CV](https://github.com/xy-cong/xy-cong.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
+I'm currently an offer holder for the Digital Advisory Associate at PricewaterhouseCoopers(PwC) - Shanghai Office commercing in 2024 Fall. I am looking for an internship before my engagement. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 📖 Educations
 
-- *2020.09 - 2024.06*, Undergraduate, Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang Univeristy, Hangzhou. 
-- *2023.01 - 2023.05*, Undergraduate Exchange Student, School of Engineering, Hong Kong University of Science and Technology, Hong Kong. 
+- *2020.09 - 2024.07*, Undergraduate, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
+- *2023.01 - 2023.05*, Exchange Student, School of Business and Managemet, the Hong Kong University of Science and Technology, Hong Kong. 
 
 
-# 🔥 News
-- *2023.11*: Two papers **(first author)** submitted! Good luck :D
-- *2023.06*: Awarded **Dean's List** by Hong Kong University of Science and Technology
+# 💻 Internship Experience
+- *2023.05 - 2023.08* **Equity Research Intern, China Securities Company Limited, Beijing**
 
-# 📝 Publications 
+   - **Database Maintenance:** Collected and maintained data related to Solar Energy. Independently built financial analysis models for both qualitative and quantitative analysis, handling over 10 databases. 
+   - **Desk Research:** Conducted more than 20 interviews and wrote meeting summaries. Authored daily and weekly reports and contributed to an in-depth company research report on the market of PV glasses.
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- *2022.11 - 2022.12* **Risk Consulting Intern, KPMG Advisory (China) Limited, Shanghai**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+   - **Consultancy:** Participated in consulting projects for major insurance companies (e.g., Manulife, HSBC, etc.) by actively engaging in conferences to meet customer needs and enhance client satisfaction.
+   - **Risk Management:** Analyzed and interpreted financial data of insurance companies using Excel and other tools. Assessed the integrity of financial data monthly, ensuring effective risk management.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- *2022.07 - 2022.08*  **Assurance Data Analytics Intern, Ernst & Young Hua Ming LLP, Shanghai**  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
+   - **Data Analytics:** Utilized Excel, Alteryx, and independently developed scripts to analyze customers' financial data. Analyzed over 500 million rows of financial data in an IPO project for a technology enterprise, generating detailed post-cleaning data and risk identification reports.
+   - **Audit:** Participated in more than 5 audit projects, collaborating with clients' financial departments and Ernst & Young audit teams to identify and mitigate audit risks throughout the procedures.
 
-- 4DRecons: 4D Neural Implicit Deformable Objects Reconstruction from a single RGB-D Camera with Geometrical and Topological Regularizations 
 
-  **<u>Xiaoyan Cong</u>**, Haitao Yang, Liyan Chen, Kaifeng Zhang, Li Yi, Chandrajit L. Bajaj, and Qixing Huang
-  
-  - **Under Review**, [Paper: Manuscript](https://drive.google.com/file/d/1j_XthPN-grfuUBrwIzoxW7o4XQvUYYn6/view?usp=drive_link) (Please feel free to click to view :D)
+# 💡 Project Experience
+- *2022.10 - 2022.12* **Analysis of Airline Marketing Strategies Based on User Behavior Clustering, Shanghai**
 
-- Automatic Controllable Colorization by Imagination 
+   - **Data Mining:** Conducted data preprocessing and exploratory analysis, including normalizing the data and identifying correlations. Developed new variables for use in cluster analysis based on the RFM model in marketing. Utilized K-Means clustering methods to evaluate clustering effects and gain a deeper understanding of the data.
+   - **Application and Analytics:** Summarized the characteristics of various user clusters based on the clustering results and developed unique marketing strategies for each cluster using knowledge of marketing principles.
 
-  **<u>Xiaoyan Cong</u>**, Yue Wu, Qifeng Chen and Chenyang Lei
-  
-  - **Under Review**, [Paper: Manuscript](https://drive.google.com/file/d/1Tg6WKaobWze_7DJy0PUh93s_DpNOTZZs/view?usp=drive_link) (Please feel free to click to view :D)
 
-# 💻 Research Experience
-- *2023.06 - 2023.11* **Research Intern, The University of Texas at Austin**
+# 📂 Previous Work
+- [Market Analysis of China’s Fried Skewers Industry](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/Case_1.pdf)
+- [Porsche’s Automated Assistance Powered by AIGC](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/Case_2.pdf)
+- [Chain Research Report of Photovoltaic Industry (in Chinese)](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/Case_3.pdf)
+- [GenAI Application of Pricing Strategy for Overseas Battery Recycling Business in CATL (in Chinese)](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/Case_4.pdf)
 
-   - Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Li Yi](https://ericyi.github.io/).
-   - Introduced a novel approach 4DRecons that takes a monocular RGB-D sequence of dynamic objects as input and outputs a complete textured deforming reconstruction.
-
-- *2023.02 - 2023.11* **Research Intern, Visual Intelligence Lab, HKUST**
-
-   - Advisor: [Prof. Qifeng Chen](https://cqf.io/) and [Prof. Chenyang Lei](https://chenyanglei.github.io/).
-   - Introduced a novel framework for automatic and controllable colorization, enabling iterative editing and modifications.
-
-- *2022.05 - 2023.02* **Undergradute Research Intern, CAD&CG, ZJU**
-
-   - Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
-   - Introduced a novel method for transparent objects reconstruction and novel view synthesis
-
-- *2022.01 - 2022.05*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
-
-   - Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) and [Prof. Yue Wang](https://ywang-zju.github.io/). 
-   - Proposed a novel method that combines vision sensors (RGB cameras) with millimeter wave radars to increase the accuracy of object detection and tracking in the automatic driving setting.
-
-- *2021.06 - 2022.01*  **Student Research Training Project, ZJU** 
-
-   - Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
-   - Proposed a novel method that evaluates the effectiveness of deep neural networks in cross-domain scenarios.
 
 # 🎖 Honors and Awards
-- *2021* Chinese National Scholarship (by Ministry of Education of the People's Republic of China, *Top 0.2%*)
-- *2022* Excellence Scholarship (by Chu Kochen Honors College, Zhejiang University, *Top 1%*)
-- *2023* Chunhui Scholarship (by College of Control Science and Engineering, Zhejiang University, *Top 1%*)
-- *2020-2022* Zhejiang Provincial Government Scholarship (*Top 2*)
-- *2020-2022* First-prize Scholarship of Zhejiang University (*Top 2%*)
-- *2022* First-prize of Zhejiang Province in the 13th National College Students Mathematics Competition
-
-# 🏢 Campus Experience
-
-- *2021-2022* Department Head of Chu KoChen College Student Union
-- *2022-2023* Volunteer of the 19th Asian Games and 19th Asian Para Games
-- *2020-present* Member of Go Team of Zhejiang University
+- *2023.09* the 2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
+- *2023.07* 2nd Runner-Up, 2023 Deloitte Digital Difference Camp (by Deloitte)
+- *2022.11* Tailong Bank Scholarship (by Tailong Bank, *Top 10%*)
+- *2022.09* the 3rd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 20%*)
+- *2022.05* Top 200, 2022 L’Oréal Brandstorm (by L’Oréal)
 
 
 # 💡 Miscellaneous
-- National Second-level Athletes of [Go (Weiqi)](https://en.wikipedia.org/wiki/Go_(game))
-   - I enjoy the variable possibilities between the black and white chess. This kind of pure competition really attracts me!
-   - Feel free to contact me if you are looking for a fun Go game!😀 
-- Saxophone (10-level, Top in Amateur), Piano (8-level)
-   - I love all the stuff related to music, such as listening, singing, and playing instruments.
-- Sports Fan
-   - I'm a big fan of basketball, ping-pong, tennis, and swimming.
+- Language
+   - English: IELTS 6.5(6)
+   - Chinese(Mandarin): Native
+- Skills
+   - Data: Python (NumPy, Pandas), MS Excel
+   - Business: GMAT Focus Edition 625/81%
