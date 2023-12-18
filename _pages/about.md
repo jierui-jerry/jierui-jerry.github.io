@@ -19,7 +19,7 @@ redirect_from:
 
 Hey! I'm Jierui Liu(刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration - Human Resource Management. During my undergraduate, I am grateful to be advised by [Prof. Jie CAO](https://cob.sufe.edu.cn/Teacher/Detail/90) for my bachelor's dissertation.
 
-I'm currently an offer holder for the **FY25 Digital Advisory Associate** at **PricewaterhouseCoopers(PwC)**, Shanghai Office commercing from 2024 Fall. I am looking for an internship before my full-time job. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
+I'm currently an offer holder for the **FY25 Digital Advisory Associate** at **PricewaterhouseCoopers(PwC)** commercing from 2024 Fall. I am looking for an internship before my full-time job. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 📖 Educations
 
