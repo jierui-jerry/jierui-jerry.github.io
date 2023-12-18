@@ -51,7 +51,7 @@ I'm currently an offer holder for the **FY25 Digital Advisory Associate** at **P
    - **Application and Analytics:** Summarized the characteristics of various user clusters based on the clustering results and developed unique marketing strategies for each cluster using knowledge of marketing principles.
 
 
-# 📂 Previous Work
+# 📂 Previous Works
 - [Market Analysis of China’s Fried Skewers Industry](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/Case_1.pdf)
 - [Porsche’s Automated Assistance Powered by AIGC](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/Case_2.pdf)
 - [Chain Research Report of Photovoltaic Industry (in Chinese)](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/Case_3.pdf)
