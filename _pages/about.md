@@ -29,7 +29,7 @@ I'm currently an offer holder for the **Digital Advisory Associate** at **Pricew
 
 # 💻 Internship Experience
     
-- *2024.02 - Now    *  **Compliance Intern, Morgan Stanley, Shanghai, China**
+- *2024.02 - Now*  **Compliance Intern, Morgan Stanley, Shanghai, China**
 
    - **Policy Research:** Tracked national laws and regulations related to investment banking, regularly wrote regulatory updating reports, made comparative analyses of changes in laws to generate reports.
    - **Internal Control:** Drafted the internal rules and regulations, and carried out daily compliance management work within the company.
