@@ -31,8 +31,9 @@ I'm currently an offer holder for the **Digital Advisory Associate** at **Pricew
     
 - *2024.02 - Now*  **Compliance Intern, Morgan Stanley, Shanghai, China**
 
-   - **Policy Research:** Tracked national laws and regulations related to investment banking, regularly wrote regulatory updating reports, made comparative analyses of changes in laws to generate reports.
-   - **Internal Control:** Drafted the internal rules and regulations, and carried out daily compliance management work within the company.
+   - **Policy Research:** Researched laws and regulations related to the investment banking business, Studied regulatory documents issued by the regulator, and wrote reports biweekly. Periodically compared and analyzed the updates of regulations to guide for improving the compliance process of the company.
+   - **Anti-money Laundering:** Assisted the company's anti-money laundering (AML) management, and conducted global sanction list screening through Dow Jones to ensure the compliance of customers and their related parties. Assisted the legal and the office of the Board of Directors in carrying out daily work.
+   - **Financial Markets:** Assisted in investigating the market access license qualification of various financial products, including stocks, bonds, and financial derivatives.
 
 
 - *2022.11 - 2022.12*  **Risk Consulting Intern, KPMG, Shanghai, China**
@@ -72,11 +73,12 @@ I'm currently an offer holder for the **Digital Advisory Associate** at **Pricew
 
 # 🎖 Honors and Awards
 
-- *2023.09* 2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
-- *2023.07* 2nd Runner-Up, 2023 Deloitte Digital Difference Camp (by Deloitte)
+- *2024.05* Outstanding Graduate (by Shanghai University of Finance and Economics)
+- *2023.09* The 2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
+- *2023.07* The 2nd Runner-Up, 2023 Deloitte Digital Difference Camp (by Deloitte)
 - *2022.11* Tailong Bank Scholarship (by Tailong Bank, *Top 10%*)
-- *2022.09* 3rd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 20%*)
-- *2022.05* Top 200, 2022 L’Oréal Brandstorm (by L’Oréal)
+- *2022.09* The 3rd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 20%*)
+- *2022.05* Top 200, 2022 L’Oréal Brandstorm (by L’Oréal China)
 
 
 # 💡 Miscellaneous
