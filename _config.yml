@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jierui (Jerry) Liu"
-description              : "Senior undergraduate at Shanghai University of Finance and Economics. Major in Business Administration."
+description              : 
 repository               : "jierui-jerry/jierui-jerry.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Jierui (Jerry) Liu"
   avatar           : "images/jerry.jpg"
   bio              : "Shanghai University of Finance and Economics"
-  location         : 
-  employer         :
+  location         : "Shanghai, China"
+  employer         : "Morgan Stanley"
   pubmed           : 
   googlescholar    : 
   email            : "jerrylauu@outlook.com"
