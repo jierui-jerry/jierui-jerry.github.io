@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is Jierui Liu (刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. During my undergraduate, I am grateful to be advised by [Prof. Jie CAO](https://cob.sufe.edu.cn/Teacher/Detail/90) for my bachelor's dissertation.
+Hello! My name is Jierui Liu (刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
 
 I'm currently an offer holder for the **Digital Advisory Associate** at **PricewaterhouseCoopers(PwC)** commercing from 2024 Fall. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
