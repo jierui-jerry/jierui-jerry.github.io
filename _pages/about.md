@@ -19,11 +19,12 @@ redirect_from:
 
 Hello! My name is Jierui Liu (刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
 
-I'm currently an offer holder for the **Digital Advisory Associate** at **PricewaterhouseCoopers(PwC)** commercing from 2024 Fall. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
+I'm currently an offer holder for the Master of Science in IM Global Experience at Booconi University commercing from 2024 Fall. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 📖 Educations
 
-- *2020.09 - 2024.07*, Undergraduate, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
+- *2024.09 - 2026.07*, Master of Science in International Management Global Experience, Bocconi University, Milan, Italy.
+- *2020.09 - 2024.07*, Bachelor of Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Managemet, the Hong Kong University of Science and Technology, Hong Kong. 
 
 
