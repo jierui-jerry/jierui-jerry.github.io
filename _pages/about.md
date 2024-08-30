@@ -29,7 +29,7 @@ I'm currently an offer holder for the Master of Science in IM Global Experience 
 
 # 💻 Internship Experience
     
-- *2024.02 - Now*  **Compliance Intern, Morgan Stanley, Shanghai, China**
+- *2024.02 - 2024.06*  **Compliance Intern, Morgan Stanley, Shanghai, China**
 
    - **Policy Research:** Researched laws and regulations related to the investment banking business, Studied regulatory documents issued by the regulator, and wrote reports biweekly. Periodically compared and analyzed the updates of regulations to guide for improving the compliance process of the company.
    - **Anti-money Laundering:** Assisted the company's anti-money laundering (AML) management, and conducted global sanction list screening through Dow Jones to ensure the compliance of customers and their related parties. Assisted the legal and the office of the Board of Directors in carrying out daily work.
