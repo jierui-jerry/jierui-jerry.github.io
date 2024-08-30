@@ -23,7 +23,7 @@ I'm currently an offer holder for the Master of Science in IM Global Experience 
 
 # 📖 Educations
 
-- *2020.09 - 2024.07*, Bachelor of Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
+- *2020.09 - 2024.07*, Bachelor of Management, Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Managemet, the Hong Kong University of Science and Technology, Hong Kong. 
 
 
