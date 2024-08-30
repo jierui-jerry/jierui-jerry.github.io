@@ -23,7 +23,6 @@ I'm currently an offer holder for the Master of Science in IM Global Experience 
 
 # 📖 Educations
 
-- *2024.09 - 2026.07*, Master of Science in International Management Global Experience, Bocconi University, Milan, Italy.
 - *2020.09 - 2024.07*, Bachelor of Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Managemet, the Hong Kong University of Science and Technology, Hong Kong. 
 
@@ -74,7 +73,7 @@ I'm currently an offer holder for the Master of Science in IM Global Experience 
 
 # 🎖 Honors and Awards
 
-- *2024.05* Outstanding Graduate (by Shanghai University of Finance and Economics)
+- *2024.05* Excellent Graduate (by Shanghai University of Finance and Economics)
 - *2023.09* The 2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
 - *2023.07* The 2nd Runner-Up, 2023 Deloitte Digital Difference Camp (by Deloitte)
 - *2022.11* Tailong Bank Scholarship (by Tailong Bank, *Top 10%*)
@@ -85,9 +84,9 @@ I'm currently an offer holder for the Master of Science in IM Global Experience 
 # 💡 Miscellaneous
 
 - **Languages**
-   - **English:** IELTS 6.5(6)
+   - **English:** IELTS 7.0
    - **Chinese(Mandarin):** Native
 
 - **Skills**
    - **Data:** Python (NumPy, Pandas), MS Excel
-   - **Business:** GMAT Focus Edition 625/81%
+   - **Business:** GMAT Focus Edition 625/81% (=GMAT 680)
