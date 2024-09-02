@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! My name is Jierui Liu (刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
 
-I'm currently an offer holder for the Master of Science in IM Global Experience at Booconi University commercing from 2024 Fall. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
+I'm currently applying for the Master Program starting from 25Fall. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 📖 Educations
 
@@ -48,6 +48,11 @@ I'm currently an offer holder for the Master of Science in IM Global Experience 
 
 
 # 💡 Project Experience
+
+- *2023.12 - 2024.06*  **The Relationship between the Usage of AI and College Students’ Job Search Outcomes: The Chain Mediation Effect of Job-Hunting Self-efficacy and Career Anxiety, Shanghai, China**
+
+   - **Model Building:** Applied the use of AIGC in college students' job-hunting tutoring, and explored its impact on job-hunting results from the perspective of psychology. 
+   - **Regression Analysis:** Conducted the quantitative analysis of the data collected by the designed questionnaire, including correlation analysis, regression analysis, mediation effect analysis, etc.
 
 - *2023.05 - 2023.08*  **China Securities Company Limited (中信建投证券), Beijing, China**
 
