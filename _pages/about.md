@@ -21,7 +21,7 @@ Hello! My name is Jierui Liu (刘洁睿), a Year-4 undergraduate at [College of 
 
 You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
-# 📖 Educations
+# 📖 Education Background
 
 - *2020.09 - 2024.07*, Bachelor of Management, Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Managemet, the Hong Kong University of Science and Technology, Hong Kong. 
