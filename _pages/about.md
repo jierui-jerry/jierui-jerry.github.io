@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is Jierui Liu (刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
+Hello! My name is Jierui Liu (刘洁睿), who is graduated from [College of Business](https://cob.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
 
 You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
