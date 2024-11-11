@@ -21,13 +21,13 @@ Hello! My name is Jierui Liu (刘洁睿), a Year-4 undergraduate at [College of 
 
 You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
-# 📖 Education Background
+# 🎓 Education Background
 
 - *2020.09 - 2024.07*, Bachelor of Management, Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Management, The Hong Kong University of Science and Technology, Hong Kong. 
 
 
-# 🎓 Professional Experience
+# 💻 Professional Experience
 
 - *2024.11 - Now*  **KYC Specialist, Standard Chartered Bank, Shanghai, China**
    - New Comer
@@ -79,7 +79,7 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 - [GenAI Application of Pricing Strategy for Overseas Battery Recycling Business in CATL (in Chinese)](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/Case_4.pdf)
 
 
-# 🎖 Honors and Awards
+# 🌟 Honors and Awards
 
 - *2024.05* Excellent Graduate (by Shanghai University of Finance and Economics)
 - *2023.09* The 2nd Prize Scholarship (by Shanghai University of Finance and Economics, *Top 10%*)
