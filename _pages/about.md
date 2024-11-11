@@ -27,7 +27,7 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Managemet, the Hong Kong University of Science and Technology, Hong Kong. 
 
 
-# 💻 Professional Experience
+# 🎓 Professional Experience
 
 - *2024.11 - Now*  **KYC Specialist, Standard Chartered Bank, Shanghai, China**
    - New Comer
