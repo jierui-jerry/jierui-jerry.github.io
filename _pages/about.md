@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! My name is Jierui Liu (刘洁睿), a Year-4 undergraduate at [College of Business](https://cob.sufe.edu.cn), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
 
-I'm currently applying for the Master Program starting from 25Fall. You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
+You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 📖 Educations
 
@@ -27,8 +27,11 @@ I'm currently applying for the Master Program starting from 25Fall. You can find
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Managemet, the Hong Kong University of Science and Technology, Hong Kong. 
 
 
-# 💻 Internship Experience
-    
+# 💻 Professional Experience
+
+- *2024.11 - Now*  **KYC Specialist, Standard Chartered Bank, Shanghai, China**
+   - **Fresh Joinor** 
+
 - *2024.02 - 2024.06*  **Compliance Intern, Morgan Stanley, Shanghai, China**
 
    - **Policy Research:** Researched laws and regulations related to the investment banking business, Studied regulatory documents issued by the regulator, and wrote reports biweekly. Periodically compared and analyzed the updates of regulations to guide for improving the compliance process of the company.
