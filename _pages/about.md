@@ -24,7 +24,7 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 # 📖 Education Background
 
 - *2020.09 - 2024.07*, Bachelor of Management, Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
-- *2023.01 - 2023.05*, Exchange Student, School of Business and Managemet, the Hong Kong University of Science and Technology, Hong Kong. 
+- *2023.01 - 2023.05*, Exchange Student, School of Business and Management, The Hong Kong University of Science and Technology, Hong Kong. 
 
 
 # 🎓 Professional Experience
