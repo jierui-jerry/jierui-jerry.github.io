@@ -30,7 +30,7 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 # 💻 Professional Experience
 
 - *2024.11 - Now*  **KYC Specialist, Standard Chartered Bank, Shanghai, China**
-   - **Fresh Joinor** 
+   - New Comer
 
 - *2024.02 - 2024.06*  **Compliance Intern, Morgan Stanley, Shanghai, China**
 
