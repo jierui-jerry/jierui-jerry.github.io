@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is Jierui Liu (刘洁睿), who is graduated from [College of Business](https://cob.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
+Hello! My name is Jierui Liu (刘洁睿), who graduated from [College of Business](https://cob.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
 
 You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
@@ -29,7 +29,7 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 
 # 💻 Professional Experience
 
-- *2024.11 - Now*  **KYC Specialist, Standard Chartered Bank, Shanghai, China**
+- *2024.11 - Now*  **Anti-Money Laundering Specialist, Standard Chartered Bank, Shanghai, China**
    - New Comer
 
 - *2024.02 - 2024.06*  **Compliance Intern, Morgan Stanley, Shanghai, China**
