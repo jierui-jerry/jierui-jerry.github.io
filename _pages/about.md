@@ -29,22 +29,22 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 
 # 💻 Professional Experience
 
-- *2024.11 - Now*  **Anti-Money Laundering Specialist, Standard Chartered Bank, Shanghai, China**
+- *2024.11 - Now*  **Anti-Money Laundering Specialist, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
    - New Comer
 
-- *2024.02 - 2024.06*  **Compliance Intern, Morgan Stanley, Shanghai, China**
+- *2024.02 - 2024.06*  **Compliance Intern, [Morgan Stanley](https://www.morganstanley.com), Shanghai, China**
 
    - **Policy Research:** Researched laws and regulations related to the investment banking business, Studied regulatory documents issued by the regulator, and wrote reports biweekly. Periodically compared and analyzed the updates of regulations to guide for improving the compliance process of the company.
    - **Anti-money Laundering:** Assisted the company's anti-money laundering (AML) management, and conducted global sanction list screening through Dow Jones to ensure the compliance of customers and their related parties. Assisted the legal and the office of the Board of Directors in carrying out daily work.
    - **Financial Markets:** Assisted in investigating the market access license qualification of various financial products, including stocks, bonds, and financial derivatives.
 
 
-- *2022.11 - 2022.12*  **Risk Consulting Intern, KPMG, Shanghai, China**
+- *2022.11 - 2022.12*  **Risk Consulting Intern, [KPMG](https://kpmg.com/us/en.html), Shanghai, China**
 
    - **Consultancy:** Participated in consulting projects for major insurance companies (e.g., Manulife, HSBC, etc.) by actively engaging in conferences to meet customer needs and enhance client satisfaction.
    - **Risk Management:** Analyzed and interpreted financial data of insurance companies using Excel and other tools. Assessed the integrity of financial data monthly, ensuring effective risk management.
 
-- *2022.07 - 2022.08*  **Assurance Data Analytics Intern, Ernst & Young, Shanghai, China**  
+- *2022.07 - 2022.08*  **Assurance Data Analytics Intern, [Ernst & Young](https://www.ey.com/en_us), Shanghai, China**  
 
    - **Data Analytics:** Utilized Excel, Alteryx, and independently developed scripts to analyze customers' financial data. Analyzed over 500 million rows of financial data in an IPO project for a technology enterprise, generating detailed post-cleaning data and risk identification reports.
    - **Audit:** Participated in more than 5 audit projects, collaborating with clients' financial departments and Ernst & Young audit teams to identify and mitigate audit risks throughout the procedures.
@@ -57,7 +57,7 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
    - **Model Building:** Applied the use of AIGC in college students' job-hunting tutoring, and explored its impact on job-hunting results from the perspective of psychology. 
    - **Regression Analysis:** Conducted the quantitative analysis of the data collected by the designed questionnaire, including correlation analysis, regression analysis, mediation effect analysis, etc.
 
-- *2023.05 - 2023.08*  **China Securities Company Limited (中信建投证券), Beijing, China**
+- *2023.05 - 2023.08*  **[China Securities Company Limited 中信建投证券](https://www.csc108.com/home), Beijing, China**
 
    - **Database Maintenance:** Collected and maintained data related to Solar Energy. Independently built financial analysis models for both qualitative and quantitative analysis, handling over 10 databases. 
    - **Desk Research:** Conducted more than 20 interviews and wrote meeting summaries. Authored daily and weekly reports and contributed to an in-depth company research report on the market of PV glasses.
