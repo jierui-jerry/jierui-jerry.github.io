@@ -17,20 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is Jierui Liu (刘洁睿), who graduated from [College of Business](https://cob.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn), majoring in Business Administration. 
+Hello! My name is Jierui Liu (刘洁睿), who is the incoming student at Duke University Fuqua School of Business.
 
 You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 🎓 Education Background
 
-- *2020.09 - 2024.07*, Bachelor of Management, Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China.
-- *2023.01 - 2023.05*, Exchange Student, School of Business and Management, The Hong Kong University of Science and Technology, Hong Kong. 
+- *2025.07 - 2026.05*, Master of Management Studies, Fuqua School of Business, Duke University, Durham, NC, USA
+- *2020.09 - 2024.07*, Bachelor of Management, Business Administration, College of Business, Shanghai University of Finance and Economics, Shanghai, China
+- *2023.01 - 2023.05*, Exchange Student, School of Business and Management, The Hong Kong University of Science and Technology, Hong Kong
 
 
 # 💻 Professional Experience
 
-- *2024.11 - Now*  **Anti-Money Laundering Specialist, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
-   - New Comer
+- *2024.11 - Now*  **Specialist, Client Delivery, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
+   - New Joiner
 
 - *2024.02 - 2024.06*  **Compliance Intern, [Morgan Stanley](https://www.morganstanley.com), Shanghai, China**
 
