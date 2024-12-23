@@ -23,7 +23,6 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 
 # 🎓 Education Background
 
-- *2025.07 - 2026.05*, Master of Management Studies, Fuqua School of Business, Duke University, Durham, NC, USA
 - *2020.09 - 2024.07*, Bachelor of Management, College of Business, Shanghai University of Finance and Economics, Shanghai, China
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Management, The Hong Kong University of Science and Technology, Hong Kong
 
@@ -31,7 +30,9 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 # 💻 Professional Experience
 
 - *2024.11 - Now*  **Specialist, Client Delivery, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
-   - New Joiner
+   - **Anti-money Laundering:** Based on the standards and local regulations, conducted Client Due Diligence and AML procedures in the client’s onboarding and periodic review. Evaluated the risk of each client in Client Risk Assessment procedures by investigating the clients’ business nature, organzations, PEP relations, sanction hits, etc.
+   - **Account Opening:** Open bank accounts for the Global Companies with Relationship Managers. Operation and Compliance team. Prepared a specific doc list for each type of client and verified the documents submitted on time.
+
 
 - *2024.02 - 2024.06*  **Compliance Intern, [Morgan Stanley](https://www.morganstanley.com), Shanghai, China**
 
