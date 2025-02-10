@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is Jierui Liu (刘洁睿), who is the incoming student at Duke University Fuqua School of Business.
+Hello! My name is Jierui Liu (刘洁睿) graduted from Shanghai University of Finance and Economics, College of Busienss.
 
 You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
