@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jierui (Jerry) Liu"
+title                    : "Jierui Liu"
 description              : 
 repository               : "jierui-jerry/jierui-jerry.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jierui (Jerry) Liu"
   avatar           : "images/jerry.jpg"
-  bio              : "Shanghai University of Finance and Economics"
-  location         : "Shanghai, China"
+  bio              : "Duke University"
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "jerrylauu@outlook.com"
+  email            : "jierui.app@outlook.com"
   researchgate     :  
   uri              :
   bitbucket        :
