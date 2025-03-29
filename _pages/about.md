@@ -17,21 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is Jierui Liu (刘洁睿) graduted from Shanghai University of Finance and Economics, College of Busienss.
+Hello! My name is Jierui Liu (刘洁睿). I am studying for Master's degree at Duke University's Fuqua School of Business. I was awarded my Bachelor's degree at Shanghai University of Finance and Economics.
 
-You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
+I am running my own business in the career counseling. If you are intersting in my profile, please contact me at +86 15522383633. (Phone number is searchable in WeChat)
 
 # 🎓 Education Background
 
+- *2025.07 - 2026.05*, Master of Management Studies, Fuqua School of Business, Duke University, NC, USA
 - *2020.09 - 2024.07*, Bachelor of Management, College of Business, Shanghai University of Finance and Economics, Shanghai, China
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Management, The Hong Kong University of Science and Technology, Hong Kong
 
 
 # 💻 Professional Experience
 
-- *2024.11 - Now*  **Specialist, Client Delivery, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
-   - **Anti-money Laundering:** Based on the standards and local regulations, conducted Client Due Diligence and AML procedures in the client’s onboarding and periodic review. Evaluated the risk of each client in Client Risk Assessment procedures by investigating the clients’ business nature, organzations, PEP relations, sanction hits, etc.
-   - **Account Opening:** Open bank accounts for the Global Companies with Relationship Managers. Operation and Compliance team. Prepared a specific doc list for each type of client and verified the documents submitted on time.
+- *2024.11 - 2024.06*  **Specialist, Client Management, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
+   - **Client Due Diligence:**  Independently carried out CDD on 30+ Global Subsidaries clients, conducted anti-money laundering risk assessment for clients, formulated Client Risk Assessment, checked the business nature, shareholdings, sanction hits, etc., and prepared relevant due diligence materials and completed system entry.
+   - **Client Onboarding:** Assisted the Relationship Managers in opening corporate bank accounts, communicated with customers and branches to prepare relevant materials to ensured that bank accounts were opened on time.
 
 
 - *2024.02 - 2024.06*  **Compliance Intern, [Morgan Stanley](https://www.morganstanley.com), Shanghai, China**
@@ -99,4 +100,3 @@ You can find my [CV](https://github.com/jierui-jerry/jierui-jerry.github.io/raw/
 
 - **Skills**
    - **Data:** Python (NumPy, Pandas), MS Excel
-   - **Business:** GMAT Focus Edition 625/81% (=GMAT 680)
