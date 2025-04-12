@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is Jierui Liu (刘洁睿). I am studying for Master's degree at Duke University's Fuqua School of Business. I was awarded my Bachelor's degree at Shanghai University of Finance and Economics.
-
-I am running my own business in the career counseling. If you are intersting in my profile, please contact me at +86 15522383633. (Phone number is searchable in WeChat)
+Hello! My name is Jierui Liu (刘洁睿). I am going to study for Master's degree at Duke University's Fuqua School of Business in July, 2025. I was awarded my Bachelor's degree at Shanghai University of Finance and Economics.
 
 # 🎓 Education Background
 
@@ -31,15 +29,14 @@ I am running my own business in the career counseling. If you are intersting in 
 # 💻 Professional Experience
 
 - *2024.11 - 2024.06*  **Specialist, Client Management, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
-   - **Client Due Diligence:**  Independently carried out CDD on 30+ Global Subsidaries clients, conducted anti-money laundering risk assessment for clients, formulated Client Risk Assessment, checked the business nature, shareholdings, sanction hits, etc., and prepared relevant due diligence materials and completed system entry.
-   - **Client Onboarding:** Assisted the Relationship Managers in opening corporate bank accounts, communicated with customers and branches to prepare relevant materials to ensured that bank accounts were opened on time.
+   - **Client Due Diligence:**  Conducted client due diligence (CDD) for 40+ multinational corporate clients, assessing AML risks by verifying business nature, ID&V related parties, unwrapping ownership structures. Prepared risk assessments and documentation for KYC.
+   - **Client Onboarding:** Supported corporate client onboarding by coordinating with RMs and internal teams to ensure timely account openings and regulatory compliance.
 
 
 - *2024.02 - 2024.06*  **Compliance Intern, [Morgan Stanley](https://www.morganstanley.com), Shanghai, China**
 
-   - **Policy Research:** Researched laws and regulations related to the investment banking business, Studied regulatory documents issued by the regulator, and wrote reports biweekly. Periodically compared and analyzed the updates of regulations to guide for improving the compliance process of the company.
-   - **Anti-money Laundering:** Assisted the company's anti-money laundering (AML) management, and conducted global sanction list screening through Dow Jones to ensure the compliance of customers and their related parties. Assisted the legal and the office of the Board of Directors in carrying out daily work.
-   - **Financial Markets:** Assisted in investigating the market access license qualification of various financial products, including stocks, bonds, and financial derivatives.
+   - **Regulatory Policy Research:** Conducted regulatory research and authored 5+ reports on financial policy and regulatory updates affecting China’s securities industry, providing insights for investment banking business and internal compliance improvements.
+   - **Anti-money Laundering:** Supported AML efforts through name screening and sanctions checks using Dow Jones platforms; maintained KYC records for prospective and existing clients.
 
 
 - *2022.11 - 2022.12*  **Risk Consulting Intern, [KPMG](https://kpmg.com/us/en.html), Shanghai, China**
@@ -49,20 +46,15 @@ I am running my own business in the career counseling. If you are intersting in 
 
 - *2022.07 - 2022.08*  **Assurance Data Analytics Intern, [Ernst & Young](https://www.ey.com/en_us), Shanghai, China**  
 
-   - **Data Analytics:** Utilized Excel, Alteryx, and independently developed scripts to analyze customers' financial data. Analyzed over 500 million rows of financial data in an IPO project for a technology enterprise, generating detailed post-cleaning data and risk identification reports.
-   - **Audit:** Participated in more than 5 audit projects, collaborating with clients' financial departments and Ernst & Young audit teams to identify and mitigate audit risks throughout the procedures.
+   - **Data Analytics:** Processed over 500 million rows of financial data using Excel and Alteryx to support auditing procedures and generated 5+ data risk reports.
+   - **Risk Auditing:** Participated in 5+ audit engagements, collaborating with client finance teams to identify and mitigate audit risks in the pre-audit stage.
 
 
 # 💡 Project Experience
 
-- *2023.12 - 2024.06*  **The Relationship between the Usage of AI and College Students’ Job Search Outcomes: The Chain Mediation Effect of Job-Hunting Self-efficacy and Career Anxiety, Shanghai, China**
-
-   - **Model Building:** Applied the use of AIGC in college students' job-hunting tutoring, and explored its impact on job-hunting results from the perspective of psychology. 
-   - **Regression Analysis:** Conducted the quantitative analysis of the data collected by the designed questionnaire, including correlation analysis, regression analysis, mediation effect analysis, etc.
-
 - *2023.05 - 2023.08*  **[China Securities Company Limited 中信建投证券](https://www.csc108.com/home), Beijing, China**
 
-   - **Database Maintenance:** Collected and maintained data related to Solar Energy. Independently built financial analysis models for both qualitative and quantitative analysis, handling over 10 databases. 
+   - **Financial Modelling:** Built and maintained 10+ databases related to solar energy, developing financial models for industry and company analysis.
    - **Desk Research:** Conducted more than 20 interviews and wrote meeting summaries. Authored daily and weekly reports and contributed to an in-depth company research report on the market of PV glasses.
 
 - *2022.10 - 2022.12*  **Analysis of Airline Marketing Strategies Based on User Behavior Clustering, Shanghai, China**
@@ -95,8 +87,9 @@ I am running my own business in the career counseling. If you are intersting in 
 # 💡 Miscellaneous
 
 - **Languages**
-   - **English:** IELTS 7.0
+   - **English:** Fluent (IELTS 7.0)
    - **Chinese(Mandarin):** Native
+   - **Chinese(Cantonese):** Beginner
 
 - **Skills**
-   - **Data:** Python (NumPy, Pandas), MS Excel
+   - **Data:** Python (NumPy, Pandas), MS Excel (VBA)
