@@ -28,7 +28,7 @@ Hello! My name is Jierui Liu (刘洁睿). I am going to study for Master's degre
 
 # 💻 Professional Experience
 
-- *2024.11 - 2024.06*  **Specialist, Client Management, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
+- *2024.11 - 2025.06*  **Specialist, Client Management, [Standard Chartered Bank](https://www.sc.com/en/), Shanghai, China**
    - **Client Due Diligence:**  Conducted client due diligence (CDD) for 40+ multinational corporate clients, assessing AML risks by verifying business nature, ID&V related parties, unwrapping ownership structures. Prepared risk assessments and documentation for KYC.
    - **Client Onboarding:** Supported corporate client onboarding by coordinating with RMs and internal teams to ensure timely account openings and regulatory compliance.
 
