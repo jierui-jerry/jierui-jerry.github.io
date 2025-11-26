@@ -21,7 +21,7 @@ Hello! My name is Jierui Liu (刘洁睿). I am going to study for Master's degre
 
 # 🎓 Education Background
 
-- *2025.07 - 2026.05*, Master of Management Studies, Fuqua School of Business, Duke University, NC, USA
+- *2025.07 - 2026.05*, Master of Management Studies, Fuqua School of Business, Duke University, Durham, NC, USA
 - *2020.09 - 2024.07*, Bachelor of Management, College of Business, Shanghai University of Finance and Economics, Shanghai, China
 - *2023.01 - 2023.05*, Exchange Student, School of Business and Management, The Hong Kong University of Science and Technology, Hong Kong
 
