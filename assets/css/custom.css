@@ -68,21 +68,21 @@ body {
 
 .hero-photo {
   display: block;
-  width: 110px;
-  height: 110px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   object-fit: cover;
-  margin: 0 auto 28px;
-  box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+  margin: 0 auto 32px;
+  box-shadow: 0 4px 28px rgba(0,0,0,0.13);
 }
 
 .hero-name {
   font-family: var(--font) !important;
-  font-size: 3.2rem !important;
+  font-size: 3.6rem !important;
   font-weight: 700 !important;
   letter-spacing: -0.04em !important;
   color: var(--black) !important;
-  margin: 0 0 8px !important;
+  margin: 0 0 32px !important;
   border-bottom: none !important;
   padding-bottom: 0 !important;
   line-height: 1.05 !important;
@@ -270,20 +270,37 @@ a.role-company:hover { color: var(--blue) !important; }
 
 .edu-item {
   background: var(--white);
-  padding: 32px;
+  padding: 28px 28px 28px 28px;
   transition: background 0.15s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
 }
 .edu-item:hover { background: #fafafa; }
+
+.edu-logo {
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+  object-fit: contain;
+  margin-bottom: 18px;
+  border: 1px solid var(--gray-3);
+  background: var(--white);
+  padding: 5px;
+  display: block;
+  flex-shrink: 0;
+}
 
 .edu-degree {
   font-size: 0.97rem;
   font-weight: 700;
   color: var(--black);
-  margin: 0 0 5px;
+  margin: 0 0 3px;
   letter-spacing: -0.01em;
 }
-.edu-school { font-size: 0.88rem; color: var(--blue); font-weight: 500; margin: 0 0 5px; }
-.edu-meta   { font-size: 0.8rem; color: var(--gray-2); margin: 0; }
+.edu-dept   { font-size: 0.86rem; color: var(--gray-1); font-weight: 500; margin: 0 0 2px; }
+.edu-school { font-size: 0.86rem; color: var(--blue);   font-weight: 600; margin: 0 0 6px; }
+.edu-meta   { font-size: 0.78rem; color: var(--gray-2); margin: 0; }
 
 /* ===================================
    CASE STUDIES / PROJECTS
@@ -424,6 +441,6 @@ a.role-company:hover { color: var(--blue) !important; }
 }
 
 @media (max-width: 480px) {
-  .hero-name { font-size: 2rem !important; }
-  .hero-photo { width: 88px; height: 88px; }
+  .hero-name { font-size: 2.2rem !important; }
+  .hero-photo { width: 140px; height: 140px; }
 }

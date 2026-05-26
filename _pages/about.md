@@ -12,9 +12,6 @@ redirect_from:
 <div class="hero">
   <img class="hero-photo" src="images/jerry.jpg" alt="Jierui Liu">
   <h1 class="hero-name">Jierui Liu</h1>
-  <p class="hero-cn">刘洁睿</p>
-  <p class="hero-tagline">Finance &middot; Risk &amp; Compliance &middot; Data Analytics</p>
-  <p class="hero-edu">MMS Graduate &mdash; Fuqua School of Business, Duke University</p>
   <div class="hero-links">
     <a href="https://www.linkedin.com/in/jierui-liu-jerry" class="hero-link" target="_blank">
       <i class="fab fa-linkedin"></i> LinkedIn
@@ -42,8 +39,52 @@ redirect_from:
   </div>
 </div>
 
-<!-- EXPERIENCE -->
+<!-- EDUCATION -->
 <div class="section section--alt" data-aos="fade">
+  <div class="section-inner">
+    <p class="section-eyebrow">Academic</p>
+    <h2 class="section-heading">Education</h2>
+    <div class="edu-grid">
+
+      <div class="edu-item">
+        <img class="edu-logo"
+             src="https://logo.clearbit.com/duke.edu"
+             alt="Duke University"
+             onerror="this.style.display='none'">
+        <p class="edu-degree">Master of Management Studies</p>
+        <p class="edu-dept">Fuqua School of Business</p>
+        <p class="edu-school">Duke University</p>
+        <p class="edu-meta">Durham, NC &nbsp;&middot;&nbsp; Jul 2025 &ndash; May 2026</p>
+      </div>
+
+      <div class="edu-item">
+        <img class="edu-logo"
+             src="https://logo.clearbit.com/sufe.edu.cn"
+             alt="Shanghai University of Finance and Economics"
+             onerror="this.style.display='none'">
+        <p class="edu-degree">Bachelor of Management</p>
+        <p class="edu-dept">College of Business</p>
+        <p class="edu-school">Shanghai University of Finance and Economics</p>
+        <p class="edu-meta">Shanghai &nbsp;&middot;&nbsp; Sep 2020 &ndash; Jul 2024</p>
+      </div>
+
+      <div class="edu-item">
+        <img class="edu-logo"
+             src="https://logo.clearbit.com/ust.hk"
+             alt="HKUST"
+             onerror="this.style.display='none'">
+        <p class="edu-degree">Exchange Student</p>
+        <p class="edu-dept">School of Business and Management</p>
+        <p class="edu-school">Hong Kong University of Science and Technology</p>
+        <p class="edu-meta">Hong Kong &nbsp;&middot;&nbsp; Jan 2023 &ndash; May 2023</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- EXPERIENCE -->
+<div class="section" data-aos="fade">
   <div class="section-inner">
     <p class="section-eyebrow">Work</p>
     <h2 class="section-heading">Experience</h2>
@@ -105,31 +146,6 @@ redirect_from:
         </ul>
       </div>
 
-    </div>
-  </div>
-</div>
-
-<!-- EDUCATION -->
-<div class="section" data-aos="fade">
-  <div class="section-inner">
-    <p class="section-eyebrow">Academic</p>
-    <h2 class="section-heading">Education</h2>
-    <div class="edu-grid">
-      <div class="edu-item">
-        <p class="edu-degree">Master of Management Studies</p>
-        <p class="edu-school">Fuqua School of Business, Duke University</p>
-        <p class="edu-meta">Durham, NC &nbsp;&middot;&nbsp; 2025&ndash;2026</p>
-      </div>
-      <div class="edu-item">
-        <p class="edu-degree">Bachelor of Management</p>
-        <p class="edu-school">Shanghai University of Finance and Economics</p>
-        <p class="edu-meta">Shanghai &nbsp;&middot;&nbsp; 2020&ndash;2024</p>
-      </div>
-      <div class="edu-item">
-        <p class="edu-degree">Exchange Student</p>
-        <p class="edu-school">HKUST School of Business and Management</p>
-        <p class="edu-meta">Hong Kong &nbsp;&middot;&nbsp; Spring 2023</p>
-      </div>
     </div>
   </div>
 </div>
@@ -199,7 +215,7 @@ redirect_from:
 </div>
 
 <!-- SKILLS -->
-<div class="section" data-aos="fade">
+<div class="section section--alt" data-aos="fade">
   <div class="section-inner">
     <p class="section-eyebrow">Capabilities</p>
     <h2 class="section-heading">Skills &amp; Languages</h2>
@@ -249,7 +265,7 @@ redirect_from:
 </div>
 
 <!-- AWARDS -->
-<div class="section section--alt" data-aos="fade">
+<div class="section" data-aos="fade">
   <div class="section-inner">
     <p class="section-eyebrow">Recognition</p>
     <h2 class="section-heading">Honors &amp; Awards</h2>
