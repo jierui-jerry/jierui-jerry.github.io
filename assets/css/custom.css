@@ -68,8 +68,8 @@ body {
 
 .hero-photo {
   display: block;
-  width: 180px;
-  height: 180px;
+  width: 220px;
+  height: 220px;
   border-radius: 50%;
   object-fit: cover;
   margin: 0 auto 32px;
@@ -82,18 +82,18 @@ body {
   font-weight: 700 !important;
   letter-spacing: -0.04em !important;
   color: var(--black) !important;
-  margin: 0 0 32px !important;
+  margin: 0 0 6px !important;
   border-bottom: none !important;
   padding-bottom: 0 !important;
   line-height: 1.05 !important;
 }
 
 .hero-cn {
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: var(--gray-2);
-  margin: 0 0 18px;
+  margin: 0 0 32px;
   font-weight: 400;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
 }
 
 .hero-tagline {
@@ -206,14 +206,30 @@ body {
   margin-bottom: 16px;
 }
 
+.role-company-row {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin-bottom: 3px;
+}
+
+.role-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 7px;
+  object-fit: contain;
+  border: 1px solid var(--gray-3);
+  background: var(--white);
+  padding: 3px;
+  flex-shrink: 0;
+}
+
 .role-company {
   font-size: 1rem;
   font-weight: 700;
   color: var(--black);
   text-decoration: none !important;
   letter-spacing: -0.01em;
-  display: block;
-  margin-bottom: 3px;
 }
 a.role-company:hover { color: var(--blue) !important; }
 
@@ -441,6 +457,6 @@ a.role-company:hover { color: var(--blue) !important; }
 }
 
 @media (max-width: 480px) {
-  .hero-name { font-size: 2.2rem !important; }
-  .hero-photo { width: 140px; height: 140px; }
+  .hero-name  { font-size: 2.2rem !important; }
+  .hero-photo { width: 160px; height: 160px; }
 }

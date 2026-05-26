@@ -12,6 +12,7 @@ redirect_from:
 <div class="hero">
   <img class="hero-photo" src="images/jerry.jpg" alt="Jierui Liu">
   <h1 class="hero-name">Jierui Liu</h1>
+  <p class="hero-cn">刘洁睿</p>
   <div class="hero-links">
     <a href="https://www.linkedin.com/in/jierui-liu-jerry" class="hero-link" target="_blank">
       <i class="fab fa-linkedin"></i> LinkedIn
@@ -44,39 +45,54 @@ redirect_from:
   <div class="section-inner">
     <p class="section-eyebrow">Academic</p>
     <h2 class="section-heading">Education</h2>
-    <div class="edu-grid">
+    <div class="role-list">
 
-      <div class="edu-item">
-        <img class="edu-logo"
-             src="https://logo.clearbit.com/duke.edu"
-             alt="Duke University"
-             onerror="this.style.display='none'">
-        <p class="edu-degree">Master of Management Studies</p>
-        <p class="edu-dept">Fuqua School of Business</p>
-        <p class="edu-school">Duke University</p>
-        <p class="edu-meta">Durham, NC &nbsp;&middot;&nbsp; Jul 2025 &ndash; May 2026</p>
+      <div class="role">
+        <div class="role-header">
+          <div>
+            <div class="role-company-row">
+              <img class="role-logo"
+                   src="https://logo.clearbit.com/duke.edu"
+                   alt="Duke University"
+                   onerror="this.style.display='none'">
+              <a href="https://www.fuqua.duke.edu" class="role-company" target="_blank">Duke University</a>
+            </div>
+            <span class="role-title">Master of Management Studies &middot; Fuqua School of Business &middot; Durham, NC</span>
+          </div>
+          <span class="role-period">Jul 2025 &ndash; May 2026</span>
+        </div>
       </div>
 
-      <div class="edu-item">
-        <img class="edu-logo"
-             src="https://logo.clearbit.com/sufe.edu.cn"
-             alt="Shanghai University of Finance and Economics"
-             onerror="this.style.display='none'">
-        <p class="edu-degree">Bachelor of Management</p>
-        <p class="edu-dept">College of Business</p>
-        <p class="edu-school">Shanghai University of Finance and Economics</p>
-        <p class="edu-meta">Shanghai &nbsp;&middot;&nbsp; Sep 2020 &ndash; Jul 2024</p>
+      <div class="role">
+        <div class="role-header">
+          <div>
+            <div class="role-company-row">
+              <img class="role-logo"
+                   src="https://logo.clearbit.com/sufe.edu.cn"
+                   alt="SUFE"
+                   onerror="this.style.display='none'">
+              <span class="role-company">Shanghai University of Finance and Economics</span>
+            </div>
+            <span class="role-title">Bachelor of Management &middot; College of Business &middot; Shanghai</span>
+          </div>
+          <span class="role-period">Sep 2020 &ndash; Jul 2024</span>
+        </div>
       </div>
 
-      <div class="edu-item">
-        <img class="edu-logo"
-             src="https://logo.clearbit.com/ust.hk"
-             alt="HKUST"
-             onerror="this.style.display='none'">
-        <p class="edu-degree">Exchange Student</p>
-        <p class="edu-dept">School of Business and Management</p>
-        <p class="edu-school">Hong Kong University of Science and Technology</p>
-        <p class="edu-meta">Hong Kong &nbsp;&middot;&nbsp; Jan 2023 &ndash; May 2023</p>
+      <div class="role">
+        <div class="role-header">
+          <div>
+            <div class="role-company-row">
+              <img class="role-logo"
+                   src="https://logo.clearbit.com/ust.hk"
+                   alt="HKUST"
+                   onerror="this.style.display='none'">
+              <span class="role-company">Hong Kong University of Science and Technology</span>
+            </div>
+            <span class="role-title">Exchange Student &middot; School of Business and Management &middot; Hong Kong</span>
+          </div>
+          <span class="role-period">Jan &ndash; May 2023</span>
+        </div>
       </div>
 
     </div>
