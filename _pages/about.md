@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is Jierui Liu (刘洁睿). I am going to study for Master's degree at Duke University's Fuqua School of Business in July, 2025. I was awarded my Bachelor's degree at Shanghai University of Finance and Economics.
+Hello! I'm Jierui Liu (刘洁睿), a graduate of the Master of Management Studies program at Duke University's Fuqua School of Business. My background spans finance, compliance, and data analytics across institutions including Standard Chartered Bank, Morgan Stanley, KPMG, and Ernst & Young. I'm passionate about bridging financial strategy with data-driven insights, and I hold a Bachelor of Management from Shanghai University of Finance and Economics.
 
 # 🎓 Education Background
 
@@ -84,7 +84,7 @@ Hello! My name is Jierui Liu (刘洁睿). I am going to study for Master's degre
 - *2022.05* Top 200, 2022 L’Oréal Brandstorm (by L’Oréal China)
 
 
-# 💡 Miscellaneous
+# 🔧 Skills & Languages
 
 - **Languages**
    - **English:** Fluent (IELTS 7.0)
@@ -92,4 +92,6 @@ Hello! My name is Jierui Liu (刘洁睿). I am going to study for Master's degre
    - **Chinese(Cantonese):** Beginner
 
 - **Skills**
-   - **Data:** Python (NumPy, Pandas), MS Excel (VBA)
+   - **Programming & Data:** Python (NumPy, Pandas), MS Excel (VBA), Alteryx
+   - **Financial Tools:** Dow Jones Risk & Compliance
+   - **Other:** Microsoft Office Suite

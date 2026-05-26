@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jierui Liu"
-description              : 
+description              : "MMS Graduate, Fuqua School of Business, Duke University | Finance, Compliance & Data Analytics"
 repository               : "jierui-jerry/jierui-jerry.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jierui Liu"
   avatar           : "images/jerry.jpg"
-  bio              : "Duke University"
-  location         : 
-  employer         : 
+  bio              : "MMS Graduate · Fuqua School of Business, Duke University"
+  location         : "Durham, NC, USA"
+  employer         :
   pubmed           : 
   googlescholar    : 
   email            : "jierui.liu@duke.edu"
@@ -43,7 +43,7 @@ author:
   instagram        : "jerry_liiiu"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jierui-liu-jerry"
+  linkedin         : "jierui-liu-jerry"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
